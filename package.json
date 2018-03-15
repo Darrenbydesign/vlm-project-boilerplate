@@ -1,0 +1,27 @@
+{
+  "name": "project-boilerplate",
+  "version": "0.1.0",
+  "description": "A project boilerplate template that will help teams create web projects quickly and easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrenbydesign/vlm-project-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "sass",
+    "gulp",
+    "node",
+    "web",
+    "project"
+  ],
+  "author": "Darren Sorrels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrenbydesign/vlm-project-boilerplate/issues"
+  },
+  "homepage": "https://github.com/darrenbydesign/vlm-project-boilerplate#readme"
+}
