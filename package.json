@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/darrenbydesign/vlm-project-boilerplate/issues"
   },
-  "homepage": "https://github.com/darrenbydesign/vlm-project-boilerplate#readme"
+  "homepage": "https://github.com/darrenbydesign/vlm-project-boilerplate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
